@@ -13,6 +13,8 @@
 //     return result
 // }
 
+console.log('Hello world');
+
 // console.log(foo(x));
 
 
