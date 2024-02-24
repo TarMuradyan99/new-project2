@@ -1,5 +1,4 @@
-// parzel tiv@ parze te bard
-// 1
+
 
 
 // let x = 12
@@ -56,10 +55,6 @@ console.log('Hello world');
 // console.log(foo(1001));
 
 
-
-
-// gtnel nshvac tvic amenamot mec parz tiv@
-// 4
 
 
 
@@ -153,12 +148,6 @@ console.log('Hello world');
 
 // console.log(foo(array));
 
-// gtnel zangvaci miji bolor parz tver@
-// 11               ?
-
-
-
-
 
 
 
@@ -169,10 +158,6 @@ console.log('Hello world');
 // if(number% Math.sqrt(number) === 0){
 //     console.log(true);
 // }else{console.log(false);}
-
-
-// parzel trvac tiv@ 3 tvi voreve astichan e te voch
-// 13
 
 
 
